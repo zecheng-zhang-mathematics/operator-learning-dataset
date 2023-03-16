@@ -18,8 +18,11 @@ Parametric PDE:
 
 
 The codes and datasets are used in the following papers:
-1. Lin, Guang, Christian Moya, and Zecheng Zhang. "B-DeepONet: An enhanced Bayesian DeepONet for solving noisy parametric PDEs using accelerated replica exchange SGLD." Journal of Computational Physics 473 (2023): 111713.
 
-2. Li, Guang, Christian Moya, and Zecheng Zhang. "On Learning the Dynamical Response of Nonlinear Control Systems with Deep Operator Networks." arXiv preprint arXiv:2206.06536 (2022).
+1. Zhang, Zecheng, Wing Tat Leung, and Hayden Schaeffer. "BelNet: Basis enhanced learning, a mesh-free neural operator." arXiv preprint arXiv:2212.07336 (2022).
+
+2. Lin, Guang, Christian Moya, and Zecheng Zhang. "B-DeepONet: An enhanced Bayesian DeepONet for solving noisy parametric PDEs using accelerated replica exchange SGLD." Journal of Computational Physics 473 (2023): 111713.
+
+3. Li, Guang, Christian Moya, and Zecheng Zhang. "On Learning the Dynamical Response of Nonlinear Control Systems with Deep Operator Networks." arXiv preprint arXiv:2206.06536 (2022).
 
 
