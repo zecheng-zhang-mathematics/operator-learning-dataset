@@ -7,9 +7,14 @@ To make the code user friendly, each code (file) does NOT rely on any other code
 
 Here are the Content page of all codes:
 
-1. Predatory and prey example, filename: pred_prey.ipynb
+Dynamical system with control:
+
+1. Predatory and prey, filename: pred_prey.ipynb
 
 
+Parametric PDE:
+
+1. 
 
 
 The codes and datasets are used in the following papers:
