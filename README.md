@@ -6,7 +6,8 @@ To make the code user friendly, each code (file) does NOT rely on any other code
 
 
 Here are the Content page of all codes:
-Predatory and prey example, filename: pred_prey.ipynb
+
+1. Predatory and prey example, filename: pred_prey.ipynb
 
 
 
