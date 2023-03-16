@@ -9,3 +9,11 @@ Here are the Content page of all codes:
 Predatory and prey example, filename: pred_prey.ipynb
 
 
+
+
+The codes and datasets are used in the following papers:
+1. Lin, Guang, Christian Moya, and Zecheng Zhang. "B-DeepONet: An enhanced Bayesian DeepONet for solving noisy parametric PDEs using accelerated replica exchange SGLD." Journal of Computational Physics 473 (2023): 111713.
+
+2. Li, Guang, Christian Moya, and Zecheng Zhang. "On Learning the Dynamical Response of Nonlinear Control Systems with Deep Operator Networks." arXiv preprint arXiv:2206.06536 (2022).
+
+
